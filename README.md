@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 “这儿？”小鱼说，“我只是在水里而已，我想要的是海洋。”
 
-ed24-iteyfww2400297.jpeg![image](https://user-images.githubusercontent.com/19547121/118633600-398f3a80-b804-11eb-8d72-5e36dc7acc77.png)
+![image](https://user-images.githubusercontent.com/19547121/118633600-398f3a80-b804-11eb-8d72-5e36dc7acc77.png)
 
