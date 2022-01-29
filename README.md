@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=FontEndArt&count_private=true&show_icons=true&theme=react" alt="" />
+<img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=FontEndArt&count_private=true&show_icons=true&theme=react" alt="" />
 
 <div align=center>
-<br />
 <img height="120" src="https://count.getloli.com/get/@FontEndArt?theme=rule34" alt="" />
 </div>
 
