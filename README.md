@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/19547121/118633600-398f3a80-b804-11eb-8d72-5e36dc7acc77.png" width="93%">
 
 ![](https://raw.githubusercontent.com/FontEndArt/FontEndArt/main/assets/github-contribution-grid-snake.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FontEndArt&layout=compact&langs_count=8&hide=vue,shell)](https://github.com/anuraghazra/github-readme-stats)
+
