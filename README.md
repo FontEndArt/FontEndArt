@@ -35,4 +35,14 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FontEndArt&layout=compact&langs_count=8&hide=vue,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript                       ██████████████▓░░░░░░░░░░   58.97 %
+TypeScript                       █████████░░░░░░░░░░░░░░░░   35.73 %
+Markdown                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+JSON                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+YAML                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+HTML                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+```
+
 <!--END_SECTION:waka-->
