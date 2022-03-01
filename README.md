@@ -37,12 +37,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       7 hrs 45 mins   ██████████████▓░░░░░░░░░░   58.97 %
-TypeScript       4 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   35.73 %
-Markdown         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-JSON             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-YAML             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-HTML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+From: 29 January 2022 - To: 28 February 2022
+
+JavaScript       7 hrs 45 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.97 %
+TypeScript       4 hrs 41 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.73 %
+Markdown         21 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.67 %
+JSON             12 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.60 %
+YAML             4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.57 %
+HTML             1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.16 %
 ```
 
 <!--END_SECTION:waka-->
