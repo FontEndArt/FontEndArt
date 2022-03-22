@@ -7,6 +7,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5500&center=true&vCenter=true&width=450&lines=%E6%84%9F%E8%B0%A2%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Github%EF%BC%8C%E6%88%91%E6%98%AF%E5%89%8D%E7%AB%AF%E5%B0%8F%E7%84%B6%E5%AD%90;%E6%AC%A2%E8%BF%8E%E9%9A%8F%E6%97%B6%E6%89%BE%E6%88%91%E4%BA%A4%E6%B5%81%EF%BC%8CWeChat%EF%BC%9Axiaoranzife">
 </p>
 
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270"><img src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" width="100" data-canonical-src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270"><img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" width="100" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270"><img src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270"><img src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3cc5769614aa5306d6452456e393b58ecfe23c4a904ca52dece5341e0794cbe9/68747470733a2f2f692e67697068792e636f6d2f6d656469612f56674774686b68557647674f6974375939692f3230302e77656270"><img src="https://camo.githubusercontent.com/3cc5769614aa5306d6452456e393b58ecfe23c4a904ca52dece5341e0794cbe9/68747470733a2f2f692e67697068792e636f6d2f6d656469612f56674774686b68557647674f6974375939692f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270"><img src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" style="max-width:100%;"></a>
+  
+  <br><br>
+ </p>
+<br>
+
 <!--
 **FontEndArt/FontEndArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,7 +53,7 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/FontEndArt/FontEndArt/main/assets/github-contribution-grid-snake.svg)
 
-<img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FontEndArt&layout=compact&langs_count=8&hide=vue,shell" alt="" />
+<img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FontEndArt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=vue,shell" alt="" />
 
 <img height="150" src="https://readme-typing-svg.herokuapp.com?color=%23841DF7&size=22&duration=3000&center=true&vCenter=true&multiline=true&width=450&height=150&lines=%E6%88%91%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9B%E7%9A%84%E5%AD%A6%E4%B9%A0TypeScript%EF%BC%81;2022%EF%BC%8C%E5%B8%8C%E6%9C%9B%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%8A%A0%E6%B2%B9%EF%BC%81;%E5%86%B2%EF%BC%81%E5%86%B2%EF%BC%81%E5%86%B2%EF%BC%81;%E5%A6%82%E6%9E%9C%E6%9C%89WebAI%E6%96%B9%E5%90%91%E4%B9%9F%E9%9D%9E%E5%B8%B8%E6%AC%A2%E8%BF%8E%E4%BA%A4%E6%B5%81%EF%BC%81;%E5%89%8D%E7%AB%AF%E5%B0%8F%E7%84%B6%E5%AD%90+xiaoranzife" alt="" />
 
