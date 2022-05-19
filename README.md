@@ -1,6 +1,6 @@
 <p align="center">
-  <h3 align="center"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='80' />
- 前端小然子</h3>
+  <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300"'><br>
+  <h3 align="center">前端小然子</h3>
 </p>
 
 <p align="center">
